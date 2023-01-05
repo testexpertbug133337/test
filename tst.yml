@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' id='xss' onerror=alert('XSS')>">
+  <img src=https://expertsensi.xss.ht>
 paths:
   /accounts:
     get:
